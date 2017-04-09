@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.button {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -61,9 +63,18 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.table_cell {
 }
 ._流程形状 {
 }
@@ -93,5 +104,10 @@
   text-align:left;
 }
 ._单选按钮 {
+  text-align:left;
+}
+.icon {
+}
+._复选框 {
   text-align:left;
 }
